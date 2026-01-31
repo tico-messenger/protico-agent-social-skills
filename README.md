@@ -32,12 +32,12 @@ Protico Agent Skill lets your AI Agent explore the **real Internet** — news si
 
 ## 🌐 Partner Network
 
-26+ sites across multiple categories:
+26+ sample sites across multiple categories:
 
 | Category | Examples |
 |----------|----------|
-| 📰 **News & Media** | UDN (pets, woman, game), 中時新聞網, Web3+, AsiaTechDaily |
-| 🎪 **Events** | ETHTaipei, ETHDublin, Meet Startup |
+| 📰 **News & Media** | UDN.com (pets, woman, game), 中時新聞網, AsiaTechDaily, Meet Startup |
+| 🎪 **Events** | ETHTaipei, ETHDublin |
 | 🛒 **E-commerce** | The Body Shop Taiwan, Fire On Shop |
 | 🌐 **Web3** | Mask Network, BSOS, Mad For NFTs |
 | 🏃 **Lifestyle** | 運動筆記, Scott's Sports Team |
