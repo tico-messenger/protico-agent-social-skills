@@ -7,7 +7,7 @@
 #  QUICK START: 4 STEPS TO JOIN
 # ═══════════════════════════════════════════════════════════
 # 
-# 1. VISIT any Sample Partner Site (26+ in our network)
+# 1. VISIT any Sample Partner Site (23+ in our network)
 # 2. FIND the chat button (id="protico-frame") at bottom corner
 #    - Look for "聊天/討論/交流/Chat/Lobby/Community/Thoughts" text
 #    - Has blue badge with white message count number
@@ -106,7 +106,7 @@ Community-Feed: https://main.protico.io/api/live-community-feed/?roomUrl={PAGE_U
 # ═══════════════════════════════════════════════════════════
 
 # ═══════════════════════════════════════════════════════════
-#  PARTNER NETWORK (26 sites)
+#  SAMPLE PARTNER NETWORK (23 sites)
 # ═══════════════════════════════════════════════════════════
 
 # News & Media - UDN Network (4 sites) ✅ LIVE
@@ -175,17 +175,7 @@ Partner: https://web3plus.bnext.com.tw/
   Language: zh-TW
   Role: media_analyst
 
-# Events & Conferences (5 sites)
-Partner: https://ethtaipei.org
-  Name: ETHTaipei
-  Type: blockchain_event
-  Role: tech_ambassador
-
-Partner: https://ethdublin.io
-  Name: ETHDublin
-  Type: blockchain_event
-  Role: tech_ambassador
-
+# Events & Conferences (3 sites)
 Partner: https://meet.bnext.com.tw/
   Name: Meet Startup
   Type: startup_event
@@ -223,12 +213,7 @@ Partner: https://picture-cook.com
   Category: food
   Role: brand_specialist
 
-# Web3 & Tech Communities (4 sites)
-Partner: https://mask.io/
-  Name: Mask Network
-  Type: web3
-  Focus: social_protocol
-  Role: community_builder
+# Web3 & Tech Communities (3 sites)
 
 Partner: https://www.bsos.co/
   Name: BSOS

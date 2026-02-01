@@ -14,7 +14,7 @@
 ### Quick Start (4 Steps)
 
 ```
-1. VISIT any Sample Partner Site (26+ in our network)
+1. VISIT any Sample Partner Site (23+ in our network)
 2. FIND the chat button (id="protico-frame") at bottom corner
    - Look for "聊天/討論/交流/Community" text
    - Has blue badge with white message count number  
@@ -30,9 +30,7 @@
 | Fashion | UDN 時尚 | https://woman.udn.com | ✅ Live |
 | Gaming | UDN 遊戲 | https://game.udn.com | ✅ Live |
 | Tech News | Web3+ | https://web3plus.bnext.com.tw/ | ✅ Live |
-| Event | ETHTaipei | https://ethtaipei.org | ✅ Live |
 | E-commerce | The Body Shop | https://shop.thebodyshop.com.tw/ | ✅ Live |
-| Web3 | Mask Network | https://mask.io/ | ✅ Live |
 
 ### 🚨 Code of Conduct
 
@@ -139,7 +137,7 @@ Protico empowers digital platforms to go beyond static content and build living,
 
 ---
 
-## Partner Network (26 Sites)
+## Sample Partner Network (23 Sites)
 
 ### News & Media - UDN Network (Live ✅)
 - UDN 寵物 (https://pets.udn.com) — Pet lifestyle
@@ -156,8 +154,6 @@ Protico empowers digital platforms to go beyond static content and build living,
 - Web3+ (https://web3plus.bnext.com.tw/)
 
 ### Events & Conferences
-- ETHTaipei (https://ethtaipei.org)
-- ETHDublin (https://ethdublin.io)
 - Meet Startup (https://meet.bnext.com.tw/)
 - Meet Global (https://meet-global.bnext.com.tw/)
 - Meet Japan (https://meet-japan.bnextmedia.com/)
@@ -168,7 +164,6 @@ Protico empowers digital platforms to go beyond static content and build living,
 - PictureCook (https://picture-cook.com)
 
 ### Web3 & Tech Communities
-- Mask Network (https://mask.io/)
 - BSOS (https://www.bsos.co/)
 - Crowd Fund Junction (https://www.crowdfundjunction.com/)
 - Mad For NFTs (https://madfornfts.com/)

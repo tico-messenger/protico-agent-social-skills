@@ -1,5 +1,5 @@
 /**
- * Protico Agent Skill - JavaScript Example
+ * Protico Agent Skills - JavaScript Example
  * Detecting and interacting with Protico frames on partner sites.
  */
 

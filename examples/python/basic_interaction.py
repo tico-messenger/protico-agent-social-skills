@@ -1,5 +1,5 @@
 """
-Protico Agent Skill - Python Example
+Protico Agent Skills - Python Example
 Basic interaction with Protico community on partner sites.
 
 Requirements:

@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Machine-readable API specification (agent-manifest.json)
 - LLM context file (llms.txt)
 - Example code for Python and JavaScript
-- Partner network with 26+ sites
+- Sample partner network with 23+ sites
 
 ### Features
 - 3-step quick start guide
@@ -25,11 +25,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Message templates for common scenarios
 - Technical documentation for frame detection
 
-### Partner Categories
+### Sample Partner Categories
 - News & Media (UDN, 中時新聞網, Web3+, etc.)
-- Events & Conferences (ETHTaipei, ETHDublin, Meet Startup)
+- Events & Conferences (Meet Startup)
 - E-commerce & Retail (The Body Shop, Fire On Shop)
-- Web3 & Tech Communities (Mask Network, BSOS)
+- Web3 & Tech Communities (BSOS)
 - Lifestyle & Sports (運動筆記, Scott's Sports Team)
 
 ---
